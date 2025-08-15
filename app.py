@@ -69,7 +69,7 @@ with st.sidebar:
     💼 Análise de Dados                 
     📍 Lavras, MG               
     📧 yuri.pereirag02@email.com             
-    [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue)](https://www.linkedin.com/in/seuusuario/)
+    [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue)](https://www.linkedin.com/in/yuri-pereira-analise-dados/)
     [![GitHub](https://img.shields.io/badge/-GitHub-black)](https://github.com/yuripereira02)
 
     ---
