@@ -53,6 +53,16 @@ col1, col2, col3 = st.columns(3)
 
 with col1:
     st.markdown("""
+    <a href="https://projetos-dashboardmusical.streamlit.app/" target="_blank" class="card-link">
+        <div class="card">
+            <div class="card-title">📊 Dashboard App Musical</div>
+            <div class="card-desc">App com Streamlit e IA para tirar suas dúvidas sobre informações do App musical.</div>
+        </div>
+    </a>
+    """, unsafe_allow_html=True)
+    
+with col2:
+    st.markdown("""
     <a href="https://projetos-dashboardcovid19.streamlit.app/analise" target="_blank" class="card-link">
         <div class="card">
             <div class="card-title">🦠 Dashboard COVID-19</div>
@@ -61,15 +71,6 @@ with col1:
     </a>
     """, unsafe_allow_html=True)
 
-with col2:
-    st.markdown("""
-    <a href="https://projetos-dashboardmusical.streamlit.app/" target="_blank" class="card-link">
-        <div class="card">
-            <div class="card-title">📊 Dashboard App Musical</div>
-            <div class="card-desc">App com Streamlit e IA para tirar suas dúvidas sobre informações do App musical.</div>
-        </div>
-    </a>
-    """, unsafe_allow_html=True)
 
 
 with st.sidebar:
