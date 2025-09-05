@@ -56,7 +56,7 @@ with col1:
     <a href="https://projetos-dashboardmusical.streamlit.app/" target="_blank" class="card-link">
         <div class="card">
             <div class="card-title">📊 Dashboard App Musical</div>
-            <div class="card-desc">App com Streamlit e IA para tirar suas dúvidas sobre informações do App musical.</div>
+            <div class="card-desc"Dashboard interativo com gráficos, insights e uma IA para responder dúvidas sobre o app musical.</div>
         </div>
     </a>
     """, unsafe_allow_html=True)
@@ -66,7 +66,7 @@ with col2:
     <a href="https://projetos-dashboardcovid19.streamlit.app/analise" target="_blank" class="card-link">
         <div class="card">
             <div class="card-title">🦠 Dashboard COVID-19</div>
-            <div class="card-desc">App no streamlit com informações sobre o COVID-19..</div>
+            <div class="card-desc">Dashboard no Streamlit com gráficos e informações explicativas sobre a pandemia da COVID-19.</div>
         </div>
     </a>
     """, unsafe_allow_html=True)
